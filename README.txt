@@ -1,7 +1,6 @@
-# ChickenDodge
 This game is a project for a Game Engine course.
 
-## How to launch the game
+----- HOW TO LAUNCH ----------------------------
 - NodeJS must be installed to launch this game.
 - Type "npm install" in this directory to install the needed packages
 - Type "node server.js" in this directory to launch the server
